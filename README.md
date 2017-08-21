@@ -1,2 +1,3 @@
 # hello-world
-A time-honored tradition in computer programming.
+"A time-honored tradition in computer programming."
+– GitHub
